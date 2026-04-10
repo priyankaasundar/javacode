@@ -1,0 +1,11 @@
+package myProject;
+
+public class PrintingName {
+	public static void main(String[] args)
+	{
+		
+		System.out.println("My name is Priyankaa");
+	}
+	
+
+}
